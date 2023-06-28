@@ -6,7 +6,7 @@ import { Outlet } from 'react-router-dom';
 const Home = () => {
     return (
         <div>
-            <h1>Welcome to the home page</h1>
+            <h1>Welcome to the home page of Arif's Page</h1>
         </div>
     )
 }
